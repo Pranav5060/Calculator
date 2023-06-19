@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pranav5060/Calculator.git/static/css/main.a4bafd3e.css",
+    "main.js": "/Pranav5060/Calculator.git/static/js/main.79aa33c6.js",
+    "static/js/787.a174f9e5.chunk.js": "/Pranav5060/Calculator.git/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/Pranav5060/Calculator.git/index.html",
+    "main.a4bafd3e.css.map": "/Pranav5060/Calculator.git/static/css/main.a4bafd3e.css.map",
+    "main.79aa33c6.js.map": "/Pranav5060/Calculator.git/static/js/main.79aa33c6.js.map",
+    "787.a174f9e5.chunk.js.map": "/Pranav5060/Calculator.git/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4bafd3e.css",
+    "static/js/main.79aa33c6.js"
+  ]
+}
